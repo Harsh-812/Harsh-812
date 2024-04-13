@@ -1,5 +1,4 @@
 # Harshitha Chandrashekar - Data Enthusiast
-![Data Visualization Animation](https://res.cloudinary.com/dgmpvvbk8/image/upload/v1713024715/Harshi%20Lottie/N9H9iSIs5k_hg3oee.gif)
 
 Welcome to my GitHub! I am a current Master’s student at Northeastern University, specializing in data analysis. My background includes working with Python, R, SQL, and various data analysis libraries to manage and analyze large datasets effectively. I have a proven track record in developing and implementing machine learning models and conducting exploratory data analysis to extract actionable insights.
 
