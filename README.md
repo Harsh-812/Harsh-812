@@ -1,6 +1,6 @@
 # Harshitha Chandrashekar - Data Enthusiast
 
-Welcome to my GitHub! I am a current Master’s student in Engineering Management at Northeastern University, specializing in data analysis. My background includes working with Python, R, SQL, and various data science libraries to manage and analyze large datasets effectively. I have a proven track record in developing and implementing machine learning models and conducting exploratory data analysis to extract actionable insights. Below, you can find details on my technical skills and some of the projects I have worked on:
+Welcome to my GitHub! I am a current Master’s student at Northeastern University, specializing in data analysis. My background includes working with Python, R, SQL, and various data analysis libraries to manage and analyze large datasets effectively. I have a proven track record in developing and implementing machine learning models and conducting exploratory data analysis to extract actionable insights. 
 
 ### 💻 Technical Skills
 
@@ -19,16 +19,16 @@ Welcome to my GitHub! I am a current Master’s student in Engineering Managemen
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
   ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-  
-### Data Science Libraries
+   
+### Data Libraries
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+  ![Dash](https://img.shields.io/badge/-Dash-008080?style=for-the-badge&logo=plotly&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-77ACF1?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![Panel](https://img.shields.io/badge/-Panel-6D80AB?style=for-the-badge&logo=python&logoColor=white)
 
-### My Projects
-- **Predictive Credit Scoring using Machine Learning**: Developed a model using Python and machine learning techniques such as Decision Trees and Random Forests to predict credit scores with high accuracy.
-- **Street Food and Local Eats Guide**: Designed and developed a comprehensive database using MS SQL to enhance the visibility of local food vendors.
-- **Malignant Neoplasm Mortality Dashboard**: Created a dashboard using Python libraries to analyze and visualize cancer mortality rates.
-
-Feel free to check out my projects and connect with me through the links provided above!
+ 
