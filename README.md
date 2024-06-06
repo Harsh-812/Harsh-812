@@ -1,6 +1,6 @@
 # Harshitha Chandrashekar - Data Enthusiast
 
-Welcome to my GitHub! I am a current Master’s student at Northeastern University, specializing in data analysis. My background includes working with Python, R, SQL, and various data analysis libraries to manage and analyze large datasets effectively. I have a proven track record in developing and implementing statistical and machine learning models and conducting exploratory data analysis to extract actionable insights.
+Welcome to my GitHub! I am a current Master’s student at Northeastern University, specializing in Data Analytics Engineering. My background includes working with Python, R, SQL, and various data analysis libraries to manage and analyze large datasets effectively. I have a proven track record in developing and implementing statistical and machine learning models and conducting exploratory data analysis to extract actionable insights.
 
 ### Programming Languages
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
