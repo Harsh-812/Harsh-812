@@ -1,70 +1,32 @@
-# Hi, I'm Harshitha 👋
+# Hi there, I'm Harshitha Chandrashekar 👋
 
-I'm a **Data Analytics Engineer** with 2+ years of experience building data pipelines, BI dashboards, and analytics solutions across pharma operations and enterprise domains. 
+Thanks for stopping by. Here's a little bit about myself...
 
-I work across the full data stack: from designing ETL/ELT pipelines and cloud data warehouses to delivering dashboards and KPI frameworks that drive business decisions.
+I'm a Data Analytics Engineering graduate student at Northeastern University with 3+ years of industry experience building data pipelines, designing cloud data warehouses, and delivering BI dashboards that drive business decisions. I've worked across pharma, e-commerce, and enterprise domains, and I'm comfortable working across the full data stack — from ETL/ELT engineering to stakeholder-facing reporting and analytics. I'm actively seeking roles in **Data Engineering**, **Business Intelligence**, and **Data Analytics**.
 
-🎓 M.S. Data Analytics Engineering — Northeastern University (GPA: 3.75)  
-📍 Seeking roles in **Data Engineering | Business Intelligence | Data Analytics**  
-📫 chandrashekar.harshitha98@gmail.com | [LinkedIn](#) | [Tableau Public](#)
+- **Projects**
 
----
+  - [Payroll Management System – Multi-Dimensional Data Modeling & BI Solution](https://github.com/#)
+  - [Real Estate DataOps Pipeline](https://github.com/#)
+  - [MedScan AI – Disease Detection Platform](https://github.com/#)
 
-## 🏅 Certifications
+- **Certifications**
 
-- ☁️ **AWS Certified Cloud Practitioner** (CLF-C02) — [View](#)
-- ❄️ **Snowflake SnowPro Core** (COF-C02) — [View](#)
-- 📊 **Google Data Analytics Professional** — [View](#)
+  - [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/#)
+  - [Snowflake SnowPro Core (COF-C02)](https://www.credly.com/#)
+  - [Google Data Analytics Professional](https://www.credly.com/#)
 
----
+- **Technologies and tools I'm familiar with**
 
-## 🛠 Tech Stack
+  - Programming Languages: Python, SQL, PL/SQL, T-SQL, R, Bash/Shell Scripting
+  - BI & Visualization: Tableau, Power BI (DAX), Looker, ThoughtSpot, QuickSight, Advanced Excel
+  - Cloud Platforms: AWS (Glue, S3, Redshift, Lambda, EC2, EMR, Athena), GCP, Azure, Snowflake, Databricks
+  - Data Engineering: Apache Spark, Airflow, Prefect, dbt, Talend, Kafka, Informatica
+  - DevOps & Tools: Docker, Terraform, Git, GitHub Actions, CI/CD, FastAPI, Streamlit
 
-**Languages & Querying**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+- **Education**
 
-**BI & Visualization**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
-![ThoughtSpot](https://img.shields.io/badge/ThoughtSpot-FF6F00?style=flat&logoColor=white)
-![QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-232F3E?style=flat&logo=amazonaws&logoColor=white)
+  - **Northeastern University** — Master's in Data Analytics Engineering, GPA: 3.75/4.0 (December 2025)
+  - **REVA University** — Bachelor of Technology, Engineering, CGPA: 8.38/10 (2020)
 
-**Cloud & Data Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-**Data Engineering & Orchestration**  
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-FF6D00?style=flat&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat&logo=prefect&logoColor=white)
-
-**DevOps & Infra**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-
----
-
-## 💼 Experience Highlights
-
-| Role | Company | Domain |
-|---|---|---|
-| Data Analytics Co-Op | Boehringer Ingelheim | Pharma / BI / GenAI |
-| Data Engineer | Tata Consultancy Services | Cloud / ETL / Pharma |
-| Process Analyst | Amazon Development Center | E-Commerce / Ops |
-| Data Analyst Intern | Sathvik Business Solutions | Finance / Reporting |
-
----
-
-*Always open to interesting data problems — feel free to connect!*
+- **How to reach me:** [LinkedIn](#) | [Email](mailto:chandrashekar.harshitha8@gmail.com) | [Tableau Public](#)
