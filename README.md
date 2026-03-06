@@ -2,7 +2,7 @@
 
 Thanks for stopping by. Here's a little bit about myself...
 
-I'm a Data Analytics Engineer holding a Master's Degree along with 2+ years of industry experience building data pipelines, designing cloud data warehouses, and delivering BI dashboards that drive business decisions. I've worked across pharma, e-commerce, and enterprise domains, and I'm comfortable working across the full data stack — from ETL/ELT engineering to stakeholder-facing reporting and analytics. I'm actively seeking roles in **Data Engineering**, **Business Intelligence**, and **Data Analytics**.
+I'm a Data Analytics Engineer holding a Master's Degree along with 2+ years of industry experience building data pipelines, working with cloud services and data warehouses, and delivering BI dashboards that drive business decisions. I've worked across pharma, e-commerce, and enterprise domains, and I'm comfortable working across the full data stack — from ETL/ELT engineering to stakeholder-facing reporting and analytics. I'm actively seeking roles in **Data Engineering**, **Business Intelligence**, and **Data Analytics**.
 
 - **Projects**
 
