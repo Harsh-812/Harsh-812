@@ -18,11 +18,13 @@ I'm a Data Analytics Engineer holding a Master's Degree along with 2+ years of i
 
 - **Technologies and tools I'm familiar with**
 
-  - Programming Languages: Python, SQL, PL/SQL, T-SQL, R, Bash/Shell Scripting
+  - Programming Languages: Python(Expert), Java(Intermediate), JavaScript, Bash/Shell Scripting, R
+  - Query Languages & Databases: SQL, PostgreSQL, PL/SQL, T-SQL, MS SQL Server, MySQL, Oracle SQL Server, Postgres
   - BI & Visualization: Tableau, Power BI (DAX), Looker, ThoughtSpot, QuickSight, Advanced Excel
   - Cloud Platforms: AWS (Glue, S3, Redshift, Lambda, EC2, EMR, Athena), GCP, Azure, Snowflake, Databricks
   - Data Engineering: Apache Spark, Airflow, Prefect, dbt, Talend, Kafka, Informatica
-  - DevOps & Tools: Docker, Terraform, Git, GitHub Actions, CI/CD, FastAPI, Streamlit
+  - DevOps & Tools: Docker, Terraform, Git, GitHub Actions, CI/CD, FastAPI, Streamlit, React, Node.js
+  - ML & AI: Supervised Learning (Regression, Classification), Generative AI, LLMs, RAG, Prompt Engineering, NLP
 
 - **Education**
 
