@@ -10,6 +10,14 @@ I work across the full data stack: from designing ETL/ELT pipelines and cloud da
 
 ---
 
+## 🏅 Certifications
+
+- ☁️ **AWS Certified Cloud Practitioner** (CLF-C02) — [View](#)
+- ❄️ **Snowflake SnowPro Core** (COF-C02) — [View](#)
+- 📊 **Google Data Analytics Professional** — [View](#)
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages & Querying**  
@@ -35,7 +43,6 @@ I work across the full data stack: from designing ETL/ELT pipelines and cloud da
 
 **Data Engineering & Orchestration**  
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-FF6D00?style=flat&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat&logo=prefect&logoColor=white)
@@ -46,14 +53,6 @@ I work across the full data stack: from designing ETL/ELT pipelines and cloud da
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
-
-
-## 🏅 Certifications
-
-- ☁️ **AWS Certified Cloud Practitioner** (CLF-C02) — [View](#)
-- ❄️ **Snowflake SnowPro Core** (COF-C02) — [View](#)
-- 📊 **Google Data Analytics Professional** — [View](#)
 
 ---
 
