@@ -2,7 +2,7 @@
 
 Thanks for stopping by. Here's a little bit about myself...
 
-I'm a Data Analytics Engineer and a Software Engineer holding a Master's Degree along with 2+ years of industry experience building data pipelines, working with cloud services and data warehouses, and delivering BI dashboards that drive business decisions. I've worked across pharma, e-commerce, and enterprise domains, and I'm comfortable working across the full data stack — from ETL/ELT engineering to stakeholder-facing reporting and analytics. I'm actively seeking roles in **Data Engineering**, **Business Intelligence**, and **Data Analytics**.
+I'm a Data Analytics Engineer and a Software Engineer holding a Master's Degree along with 2+ years of industry experience building data pipelines, working with cloud services, data warehouses, and delivering BI solutions that drive business decisions. I've worked across pharma, e-commerce, and enterprise domains, and I'm comfortable working across the full data stack — from ETL/ELT engineering to stakeholder-facing reporting and analytics. I'm actively seeking roles in **Data Engineering**, **Business Intelligence**, and **Data Analytics**.
 
 - **Projects**
 
@@ -15,12 +15,13 @@ I'm a Data Analytics Engineer and a Software Engineer holding a Master's Degree 
   - [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/15cae5e4-47b3-4de8-be5f-9ea0c953e1ce/linked_in?t=si0ofp)
   - [Snowflake SnowPro Core (COF-C02)](https://achieve.snowflake.com/118c22fe-9bb9-4b39-9724-ad682d29ab26#acc.zNUY6Kf7)
   - [Google Data Analytics Professional](https://www.credly.com/badges/977e589d-f183-4ede-a145-6fdf7fb97923/linked_in_profile)
+  - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/HarshithaChandrashekar-3849/EBDF948AE05124A4?sharingId=9F7658CBBC59D5C1)
 
 - **Technologies and tools I'm familiar with**
 
   - Programming Languages: Python(Expert), Java(Intermediate), JavaScript, Bash/Shell Scripting, R
   - Query Languages & Databases: SQL, PostgreSQL, PL/SQL, T-SQL, MS SQL Server, MySQL, Oracle SQL Server, Postgres
-  - BI & Visualization: Tableau, Power BI (DAX), Looker, ThoughtSpot, QuickSight, Advanced Excel
+  - BI & Visualization: Tableau, Power BI, Looker, ThoughtSpot, QuickSight, Advanced Excel
   - Cloud Platforms: AWS (Glue, S3, Redshift, Lambda, EC2, EMR, Athena), GCP, Azure, Snowflake, Databricks
   - Data Engineering: Apache Spark, Airflow, Prefect, dbt, Talend, Kafka, Informatica
   - DevOps & Tools: Docker, Terraform, Git, GitHub Actions, CI/CD, FastAPI, Streamlit, React, Node.js
