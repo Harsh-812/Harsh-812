@@ -15,7 +15,7 @@ I'm a Data Analytics Engineer and a Software Engineer holding a Master's Degree 
   - [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/15cae5e4-47b3-4de8-be5f-9ea0c953e1ce/linked_in?t=si0ofp)
   - [Snowflake SnowPro Core (COF-C02)](https://achieve.snowflake.com/118c22fe-9bb9-4b39-9724-ad682d29ab26#acc.zNUY6Kf7)
   - [Google Data Analytics Professional](https://www.credly.com/badges/977e589d-f183-4ede-a145-6fdf7fb97923/linked_in_profile)
-  - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/HarshithaChandrashekar-3849/EBDF948AE05124A4?sharingId=9F7658CBBC59D5C1)
+  - [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/HarshithaChandrashekar-3849/EBDF948AE05124A4?sharingId=9F7658CBBC59D5C1)
 
 - **Technologies and tools I'm familiar with**
 
